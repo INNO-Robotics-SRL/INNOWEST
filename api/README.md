@@ -35,4 +35,4 @@ Details on how to use the software are described under docs in the [Programmers 
 ### API
 
 ## License
-The Inno West Rose-AP components are licensed under [Apache 2.0](/LICENSE) © 2022 Inno Robotics S.R.L.
+The Inno West Rose-AP components are licensed under [Apache 2.0](/LICENSE) © 2023 Inno Robotics S.R.L.

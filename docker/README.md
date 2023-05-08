@@ -60,4 +60,4 @@ http://localhost:4200/
 ```
 
 ## License
-The Inno West Rose-AP components are licensed under [Apache 2.0](/LICENSE) © 2022 Inno Robotics S.R.L.
+The Inno West Rose-AP components are licensed under [Apache 2.0](/LICENSE) © 2023 Inno Robotics S.R.L.
