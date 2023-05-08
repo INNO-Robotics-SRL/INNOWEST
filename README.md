@@ -39,7 +39,7 @@ The following are required in order to utilize the product:
 
 Details on the installation procedure are to be found under [Docker](/docker/) and [API](/api/)
 
-# Video
+## Video
 Video tutorial on how to implement and use ROSE-AP can be found [here](/video/README.md) .
 
 ## License
