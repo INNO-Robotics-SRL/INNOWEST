@@ -7,7 +7,7 @@ The main service contributed by the ROSE-AP is automated planning, to minimize t
 
 -   [Settings things up](#Setting)
 -   [Persisting Time Series data](#timeseries)
--   [Config Cleanup](#clean)
+-   [Config Cleanup](#cleanup)
 -   [License](#license)
 
 ## Setting
