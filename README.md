@@ -35,9 +35,14 @@ The following are required in order to utilize the product:
 - Running instance of the API Inno Broker
 - Welding and Polish Robot cell
 
-## Instalation
+## Instalation Docker
+Docker details on the installation procedure are to be found under [Docker](/docker/)
 
-Details on the installation procedure are to be found under [Docker](/docker/) and [API](/api/)
+## Instalation Dataset
+Dataset details on the installation procedure are to be found under [Dataset](/dataset/)
+
+## Instalation API
+API details on the installation procedure are to be found under [API](/api/)
 
 ## Video
 Video tutorial on how to implement and use ROSE-AP can be found [here](/video/README.md) .
