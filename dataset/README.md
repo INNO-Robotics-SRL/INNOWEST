@@ -14,7 +14,7 @@ The main service contributed by the ROSE-AP is automated planning, to minimize t
 
 Entity modeling: we set up a simplified model, having one site, one area, one workstation, and two units. Physically we have one robotic cell performing part welding and polishing. We represented this in the figure below.
 
-<img width="1000" alt="Architecture" src="ds_architecture.jpg">
+<img width="600" alt="Architecture" src="ds_architecture.jpg">
 
 > Note: all commands below use the curl software tool, and assume the Orion Context Broker is up and running, and available in the same (local) network.
 
