@@ -4,7 +4,7 @@ This project is part of [DIH2](http://www.dih-squared.eu/). For more information
 
 -   [Background](#background)
 -   [Requirements](#requirements)
--   [Install](#install)
+-   [Install](#installation)
 -   [Usage](#usage)
 -   [License](#license)
 

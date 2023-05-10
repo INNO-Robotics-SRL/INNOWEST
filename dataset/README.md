@@ -5,12 +5,12 @@ The main service contributed by the ROSE-AP is automated planning, to minimize t
 
 ## Contents
 
--   [Settings things up](#Settings)
+-   [Settings things up](#Setting)
 -   [Persisting Time Series data](#timeseries)
 -   [Config Cleanup](#clean)
 -   [License](#license)
 
-## Settings things up
+## Setting
 
 Entity modeling: we set up a simplified model, having one site, one area, one workstation, and two units. Physically we have one robotic cell performing part welding and polishing. We represented this in the figure below.
 
@@ -105,7 +105,7 @@ curl -iX PUT 'http://{context-broker-IP}:1026/v2/entities/urn:ngsiv2:i40Asset:Wo
 ```
 > Note: where {state} could be IDLE, STARTING, RUNNING, STANDBY, STOPPING, or ERROR.
 
-## Persisting Time Series data
+## Timeseries
 
 In our current setup, we used Quantumleap directly to persist TimeSeries data. To do this, our broker creates a subscription for the workstation to Quantumleap and then posts data directly. To create the subscription, we used this commands:
 
@@ -495,7 +495,7 @@ curl http://{context-broker-IP}:8668/v2/notify -s -S -H 'Content-Type: applicati
 EOF
 ```
 
-## Configuration cleanup commands used while testing
+## Cleanup
 
 To clean up, while testing, we used this command template:
 ```text
