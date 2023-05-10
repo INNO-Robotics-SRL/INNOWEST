@@ -14,7 +14,7 @@ The main service contributed by the ROSE-AP is automated planning, to minimize t
 
 Entity modeling: we set up a simplified model, having one site, one area, one workstation, and two units. Physically we have one robotic cell performing part welding and polishing. We represented this in the figure below.
 
-<img width="1000" alt="Architecture" src="docs/ds_architecture.png">
+<img width="1000" alt="Architecture" src="ds_architecture.jpg">
 
 > Note: all commands below use the curl software tool, and assume the Orion Context Broker is up and running, and available in the same (local) network.
 
@@ -90,7 +90,7 @@ curl -iX POST 'http://{context-broker-IP}:1026/v2/entities/' \
 
 The outcome, as seen on the context broker machine:
 
-<img width="1000" alt="Result" src="docs/outcome_1.png">
+<img width="1000" alt="Result" src="outcome.jpg">
 
 To manage workstation states, we used this command template:
 ```text
